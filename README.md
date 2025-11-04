@@ -1,48 +1,70 @@
-<!-- Perfil Profesional de Reddix Byte -->
+<h1 align="center">👾 Bienvenido al laboratorio de Reddix Byte 👾</h1>
 
-<h1 align="center">⚡ Reddix Byte ⚡</h1>
-<h3 align="center">🕶 Ciberseguridad | Hacking Ético | Red Team | Pentesting 🕶</h3>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721166.png" width="100" height="100" alt="Hacker Icon"/>
+</p>
 
----
-
-### 👾 Sobre mí
-💀 Profesional con 4 años de experiencia en *Ciberseguridad y Hacking Ético*, especializado en auditorías, análisis de vulnerabilidades, ingeniería social y defensa digital.  
-🚀 Actualmente explorando el desarrollo web y el hacking ofensivo para llevar mis habilidades al siguiente nivel.
+<p align="center">
+Soy <b>Reddix Byte</b> — especialista en <b>Ciberseguridad</b> y <b>Hacking Ético</b>.  
+Con más de <b>4 años de experiencia</b> en el campo, mi enfoque se centra en el estudio profundo de vulnerabilidades, redes y seguridad ofensiva y defensiva.  
+Busco el perfeccionamiento constante en el desarrollo y la automatización de herramientas de seguridad.
+</p>
 
 ---
 
 ### 🧠 Conocimientos Principales
 
-#### 🔐 Redes y Seguridad
-- Protocolos TCP/IP, HTTP, DNS, VPN
-- Firewalls, IDS/IPS, sniffing y spoofing
-- Análisis de vulnerabilidades y auditorías de red  
-- Escaneo de puertos y pruebas de penetración
+- *Redes:* Protocolos (TCP/IP, HTTP, DNS), topologías, firewalls, routers y auditorías inalámbricas.  
+- *Sistemas Operativos:* Dominio de Linux y Windows, administración, permisos y shell scripting.  
+- *Lenguajes de Programación:* Python, Java, C/C++, PHP, HTML y CSS.  
+- *Habilidades Avanzadas:*  
+  - Inyección SQL / MySQL  
+  - Escaneo de puertos (Nmap, Netcat)  
+  - Reconocimiento y análisis de vulnerabilidades  
+  - Ingeniería social y redacción de informes técnicos  
+  - Ciberdefensa ofensiva y defensiva  
 
-#### 💻 Sistemas Operativos
-<p>
-  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" title="Linux"/>
-  <img src="https://img.icons8.com/color/48/000000/windows-10.png" title="Windows"/>
+---
+
+### 💻 Sistemas Operativos
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="48" height="48"/>
 </p>
 
-#### ⚙ Lenguajes de Programación
-<p>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/>
-  <img src="https://img.icons8.com/offices/48/000000/php-logo.png" title="PHP"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
+---
+
+### 🧩 Lenguajes de Programación
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="48" height="48"/>
 </p>
 
 ---
 
 ### 🧰 Herramientas
-<p>
-  <img src="https://img.icons8.com/fluency/48/000000/kali-linux.png" title="Kali Linux"/>
-  <img src="https://img.icons8.com/color/48/000000/wireshark.png" title="Wireshark"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub"/>
+
+<p align="center">
+  <!-- Kali Linux -->
+  <img src="https://raw.githubusercontent.com/kalilinux/branding/main/kali-dragon/kali-dragon.svg" title="Kali Linux" width="48" height="48"/>
+
+  <!-- Parrot OS -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" title="Parrot OS" width="48" height="48"/>
+
+  <!-- Wireshark -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" title="Wireshark" width="48" height="48"/>
+
+  <!-- Visual Studio Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="48" height="48"/>
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="48" height="48"/>
 </p>
 
 ---
@@ -54,7 +76,6 @@
 ---
 
 ### 📞 Contacto
-
 <p align="center">
   <a href="https://www.instagram.com/e0sd1s_onion_sec_segurity" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" title="Instagram"/>
@@ -62,18 +83,6 @@
   <a href="https://github.com/reddix819-byte" target="_blank">
     <img src="https://img.icons8.com/material-rounded/48/000000/github.png" title="GitHub"/>
   </a>
-</p>
-
----
-
-### 🧮 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reddix819-byte&show_icons=true&theme=dracula" alt="Estadísticas de GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reddix819-byte&theme=dracula" alt="Racha de contribuciones"/>
 </p>
 
 ---
