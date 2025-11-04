@@ -51,20 +51,11 @@ Busco el perfeccionamiento constante en el desarrollo y la automatización de he
 ### 🧰 Herramientas
 
 <p align="center">
-  <!-- Kali Linux -->
-  <img src="https://raw.githubusercontent.com/kalilinux/branding/main/kali-dragon/kali-dragon.svg" title="Kali Linux" width="48" height="48"/>
-
-  <!-- Parrot OS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" title="Parrot OS" width="48" height="48"/>
-
-  <!-- Wireshark -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" title="Wireshark" width="48" height="48"/>
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="48" height="48"/>
 
   <!-- Visual Studio Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="48" height="48"/>
-
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="48" height="48"/>
 </p>
 
 ---
