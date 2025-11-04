@@ -5,12 +5,10 @@
 </p>
 
 <p align="center">
-Soy <b>Reddix Byte</b> — especialista en <b>Ciberseguridad</b> y <b>Hacking Ético</b>.  
+Soy <b>Reddix Byte</b>, especialista en <b>Ciberseguridad</b> y <b>Hacking Ético</b>.  
 Con más de <b>4 años de experiencia</b> en el campo, mi enfoque se centra en el estudio profundo de vulnerabilidades, redes y seguridad ofensiva y defensiva.  
 Busco el perfeccionamiento constante en el desarrollo y la automatización de herramientas de seguridad.
 </p>
-
----
 
 ### 🧠 Conocimientos Principales
 
@@ -24,16 +22,12 @@ Busco el perfeccionamiento constante en el desarrollo y la automatización de he
   - Ingeniería social y redacción de informes técnicos  
   - Ciberdefensa ofensiva y defensiva  
 
----
-
 ### 💻 Sistemas Operativos
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="48" height="48"/>
 </p>
-
----
 
 ### 🧩 Lenguajes de Programación
 
@@ -46,25 +40,16 @@ Busco el perfeccionamiento constante en el desarrollo y la automatización de he
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="48" height="48"/>
 </p>
 
----
-
 ### 🧰 Herramientas
 
 <p align="center">
-  <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="48" height="48"/>
-
-  <!-- Visual Studio Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="48" height="48"/>
 </p>
 
----
-
 ### 🧩 Filosofía
 > “El conocimiento sin ética es un arma sin control.”  
-> — *Reddix Byte*
-
----
+> Reddix Byte
 
 ### 📞 Contacto
 <p align="center">
@@ -75,8 +60,6 @@ Busco el perfeccionamiento constante en el desarrollo y la automatización de he
     <img src="https://img.icons8.com/material-rounded/48/000000/github.png" title="GitHub"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=reddix819-byte&label=Visitas%20al%20perfil&color=ff0000&style=flat-square" alt="Contador de visitas"/>
